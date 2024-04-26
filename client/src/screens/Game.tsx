@@ -15,7 +15,7 @@ export const Game = () => {
           <Button onClick = {()=>{
           navigate("/game")}
         }> 
-        play online
+        play online               
         </Button>
           </div>
         </div>
