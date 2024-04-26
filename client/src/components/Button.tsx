@@ -13,7 +13,7 @@ export const Button = ({onClick , children}: {onClick:() => void, children: Reac
                  {children}
               </button>
       <div>
-        
+
       </div>
     )
 
